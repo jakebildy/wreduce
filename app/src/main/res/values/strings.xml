@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WReduce</string>
+    <string name="title_activity_point_collector">PointCollector</string>
+    <string name="title_activity_point_collect">PointCollect</string>
+</resources>
